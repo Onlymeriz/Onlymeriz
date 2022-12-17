@@ -8,14 +8,6 @@
 <p align="center"><a href="https://github.com/senpai80"><img src="https://github-readme-stats.vercel.app/api?username=ꝛɪᴢҡʏ&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/senpai80"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ꝛɪᴢҡʏ&theme=radical&layout=compact"></a></p> 
 
-
-<p>
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src=aext-gray?&logo=Sublime-Text" />
-</p>
-
 ### Let's connect!
 <p>
     <a href="https://t.me/riizzvbss" target="blank"><img src="https://img.shields.io/badge/@riizzvbss-30302f?style=flat&logo=telegram" /></a>
