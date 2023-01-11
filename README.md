@@ -4,8 +4,8 @@
 <br>
 
 ### Stats:
-<p align="center"><a href="https://github.com/senpai80"><img src="https://github-readme-stats.vercel.app/api?username=senpai80&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/senpai80"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpai80&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Onlymeriz"><img src="https://github-readme-stats.vercel.app/api?username=Onlymeriz&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Onlymeriz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onlymeriz &theme=radical&layout=compact"></a></p> 
 
 ### Let's connect!
 <p>
