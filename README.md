@@ -1,6 +1,6 @@
 # [Aᴢᴀᴢᴇʟ]
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/riizzvbss) 
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Robotikaazazel) 
 <br>
 
 ### Stats:
@@ -9,7 +9,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/riizzvbss" target="blank"><img src="https://img.shields.io/badge/@riizzvbss-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/Robotikaazazel" target="blank"><img src="https://img.shields.io/badge/@riizzvbss-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/ranandam_" target="blank"><img src="https://img.shields.io/badge/@ranandam_-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
