@@ -9,7 +9,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/Robotikaazazel" target="blank"><img src="https://img.shields.io/badge/@riizzvbss-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/Robotikaazazel" target="blank"><img src="https://img.shields.io/badge/@Robotikaazazel-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/ranandam_" target="blank"><img src="https://img.shields.io/badge/@ranandam_-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
