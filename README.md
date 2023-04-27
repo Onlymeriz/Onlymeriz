@@ -4,9 +4,9 @@
  [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Robotikaazazel) 
 <br>
 
-### Stats:
-<p align="center"><a href="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api?username=Robotikaazazel &show_icons=true&theme=radical"></a></p>
-<palign="center"><ahref="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotikaazazel&theme=radical&layout=compact"></a></p> 
+### Peringatan:
+
+KALO MO CLONE PERMISI CONTOL
 
 ### Let's connect!
 <p>
