@@ -6,7 +6,7 @@
 
 ### Stats:
 <p align="center"><a href="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api?username=Robotikaazazel &show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotikaazazel&theme=radical&layout=compact"></a></p> 
+<palign="center"><ahref="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotikaazazel&theme=radical&layout=compact"></a></p> 
 
 ### Let's connect!
 <p>
