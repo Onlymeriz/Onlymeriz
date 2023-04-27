@@ -6,12 +6,12 @@
 
 ### Stats:
 <p align="center"><a href="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api?username=Robotikaazazel &show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Onlymeriz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onlymeriz&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Robotikaazazel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotikaazazel&theme=radical&layout=compact"></a></p> 
 
 ### Let's connect!
 <p>
     <a href="https://t.me/Robotikaazazel" target="blank"><img src="https://img.shields.io/badge/@Robotikaazazel-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/ranandam_" target="blank"><img src="https://img.shields.io/badge/@ranandam_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/yyyourboys_" target="blank"><img src="https://img.shields.io/badge/@yyyourboys_-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
